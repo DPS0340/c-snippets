@@ -2,3 +2,5 @@ src/randomseed/seed
 
 **/*.exe
 **/*.out
+
+.vscode
